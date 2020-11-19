@@ -7,7 +7,7 @@ import android.os.Handler
 import com.github.grupo7dh.filmix.MainActivity
 import com.github.grupo7dh.filmix.R
 
-class SpashActivity : AppCompatActivity() {
+class SplashActivity : AppCompatActivity() {
     private val splashTimeout: Long = 6000
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
