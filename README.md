@@ -1,3 +1,5 @@
+MODELO DE EXIBIÇÃO DO PROJETO PRIVADO FILMIX
+
 # Filmix
 
 O Filmix é um app de filmes proposto pelo **Grupo 7** que visa facilitar recomendações e controles de filmes assistidos, além de ser entregue ao final do curso como **Projeto Integrador** da **Digital House**.
@@ -13,13 +15,17 @@ O Filmix é um app de filmes proposto pelo **Grupo 7** que visa facilitar recome
 
 https://www.figma.com/file/dSLm1mE5CaeHVy6etLTDP5/Grupo-7?node-id=3%3A1427
 
+## Projeto Final
+
+https://play.google.com/store/apps/details?id=com.github.grupo7dh.filmix
+
 ## Fase do projeto
 
 - [x] Prototipagem
-- [ ] Criação de views e navegação
-- [ ] Consumo de API
-- [ ] Integração com firebase
-- [ ] Apresentação
+- [x] Criação de views e navegação
+- [x] Consumo de API
+- [x] Integração com firebase
+- [x] Apresentação
 
 ## Gitflow
 
