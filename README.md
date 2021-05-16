@@ -15,6 +15,11 @@ O Filmix é um app de filmes proposto pelo **Grupo 7** que visa facilitar recome
 
 https://www.figma.com/file/dSLm1mE5CaeHVy6etLTDP5/Grupo-7?node-id=3%3A1427
 
+## Contribuidores
+
+- <a href="https://github.com/VanSharine">Vanessa Camelo</a> | <a href="https://github.com/vdevtor">Vitor Soares Silva</a>  |  <a href="https://github.com/LincolnStuart ">Lincoln Stuart Lima da Gama</a> | <a href="https://github.com/leandrofreires">Leandro Freire</a> | <a href="https://github.com/pollyminatel">Pollyana Minatel</a>  | <a href="https://github.com/b4ndini">Luis Felipe</a>
+
+
 ## Projeto Final
 
 https://play.google.com/store/apps/details?id=com.github.grupo7dh.filmix
@@ -41,3 +46,5 @@ https://play.google.com/store/apps/details?id=com.github.grupo7dh.filmix
 ## Vídeo do projeto modelo
 
 https://user-images.githubusercontent.com/50116696/118404906-55031580-b64b-11eb-9906-61e98062363b.mp4
+
+
